@@ -1,1 +1,1 @@
-# econ3916
+# ECON3916-Statistical-Machine-Learning
